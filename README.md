@@ -2,4 +2,5 @@
 SLP Projects
 
 cd BlogAssignment
-run python manage.py runserver
+#============================
+run 'python manage.py runserver'
